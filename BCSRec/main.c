@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 #include "main.h"
-
+// REQ_001: System must have functions for correctly calculating the perimeter and area of a rectangle
 void main() {
 	int length = 1;
 	int width = 1;
